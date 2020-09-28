@@ -143,11 +143,11 @@ then
 
 elif [ $var -eq 9 ];############################################  MATRIX
 then
-	/Users/vicaster/petit_codeur/srcs/binary
+	/Users/victorcastera/petit_codeur/srcs/binary
 
 elif [ $var -eq 10 ];##########################################  1100101
 then
-	/Users/vicaster/petit_codeur/srcs/1100101
+	~/petit_codeur/srcs/1100101
 
 elif [ $var -eq 6 ];
 then
