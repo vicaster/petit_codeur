@@ -143,7 +143,7 @@ then
 
 elif [ $var -eq 9 ];############################################  MATRIX
 then
-	/Users/victorcastera/petit_codeur/srcs/binary
+	/Users/${LOGNAME}/petit_codeur/srcs/binary
 
 elif [ $var -eq 10 ];##########################################  1100101
 then
